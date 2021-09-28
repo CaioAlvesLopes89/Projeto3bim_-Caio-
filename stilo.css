@@ -1,0 +1,37 @@
+
+
+.content{
+    
+    width: 1000px;
+    border: 1px black;
+    padding-left: 300px;
+    
+    margin: 60px;
+}
+
+.img{
+    width: 350px;
+    height: 250px;
+}
+
+.table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th{
+    border: 1px solid #42f581;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){
+    background-color: #318c51;
+}
+
+.header {
+    background-color: #CECADA;
+    text-align: center;
+    padding: 20px;
+  }
+

@@ -1,0 +1,13 @@
+img{
+    width: 15rem;
+}
+
+body{
+    width: 1000px;
+    border: 1px black;
+    padding-right: 300px;
+    
+    margin: 60px;
+
+    background: linear-gradient(120deg, #36a3d1, #1711d1);
+}
